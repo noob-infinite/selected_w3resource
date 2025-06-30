@@ -1,5 +1,8 @@
 package selected_w3resource.part3_string_and_method;
 // https://www.w3resource.com/java-exercises/string/index.php
+// https://www.w3resource.com/java-exercises/string/java-string-exercise-5.php
+// Two strings are lexicographically equal if they are the same length and contain the same characters in the same positions.
+
 
 // static boolean solve(String s1, String s2) {
 //     return way1(s1,s2);

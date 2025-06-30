@@ -1,7 +1,9 @@
 package selected_w3resource.part4_array;
 
 public class A2_SumAllValuesInArr {
+// https://www.w3resource.com/java-exercises/array/#google_vignette
 // https://www.w3resource.com/java-exercises/array/java-array-exercise-2.php#google_vignette
+// Sum all values in an array
 
     static int solve(int [] arr) {
         int sum = 0;
