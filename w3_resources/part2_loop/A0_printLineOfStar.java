@@ -1,4 +1,4 @@
-package selected_w3resource.part2_loop;
+package w3_resources.part2_loop;
 // given an integer n, print a row of n stars
 public class A0_printLineOfStar {
     static void solve(int n) {

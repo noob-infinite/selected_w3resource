@@ -1,4 +1,4 @@
-package selected_w3resource.part4_array;
+package w3_resources.part4_array;
 
 public class A2_SumAllValuesInArr {
 // https://www.w3resource.com/java-exercises/array/#google_vignette
