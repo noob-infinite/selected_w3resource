@@ -1,4 +1,4 @@
-package w3_resources.part1_flow_control;
+package w3_resources.part2_loop;
 
 public class A65_CommonDigit {
   boolean isCommonDigitExist(int a, int b) {

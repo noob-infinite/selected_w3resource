@@ -1,4 +1,4 @@
-package w3_resources.part1_flow_control;
+package w3_resources.part2_loop;
 
 import java.util.ArrayList;
 import java.util.List;

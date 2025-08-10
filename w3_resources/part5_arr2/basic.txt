@@ -1,0 +1,62 @@
+https://www.w3resource.com/java-exercises/array/index.php
+n 5. Check if array contains a specific value
+n 6. Find index of an element in array 
+7. Remove specific element from array
+n 8. Copy array using iteration
+9. Insert element at specific position
+n 10. Find max and min in an array
+n 11. Reverse an integer array
+12. Find duplicates in integer array
+n 13. Find duplicates in string array (similar to 12)
+14. Common elements in two string arrays
+n 15. Common elements in two integer arrays (similar to 14)
+16. Remove duplicates from array
+17.burased Find second largest array element
+18. Find second smallest array element
+n 19. Add two same-size matrices 
+20. Convert array to ArrayList
+21. Convert ArrayList to array
+22.burased Find pairs with a given sum
+23. Check if two arrays are equal
+24.burased Find missing number in array
+25. Common elements in three sorted arrays
+26. Move all 0s to array end
+27. Count even and odd numbers in array
+28. Difference between max and min values
+n 29. Average excluding max and min
+30. Check if array excludes 0 and -1
+31. Check if total of 10s equals 30
+32. Check if array has 65 and 77
+33. Remove duplicates and return new length
+34.burased Find length of longest consecutive sequence
+40. Find pair with sum closest to zero
+n 41. Find smallest and second smallest in an array
+42. Separate 0s and 1s in an array of 0s and 1s
+45. Rotate an array clockwise by one position
+48. Arrange array with negative integers before positives
+49. Arrange array with positive integers before negatives
+n 50. Re-arrange array with alternate max-min values (from sorted)
+52. Separate even and odd numbers in an array
+53. Replace each element with the next greatest (greater) element
+54. Check if array contains a subarray with sum zero 
+55. Print all sub-arrays with sum zero in an array
+n 56. Sort a binary array in linear time
+n 57. Check if sub-array is formed by consecutive integers (76 is easier)
+58. Merge two sorted arrays maintaining order
+59. Find maximum product of two integers in an array
+62. Find equilibrium indices in an array
+63. (BUG) Replace each element with product of other elements 
+64. Find longest bitonic subarray in an array (start, stop) which must strictly ascending then decending
+65. (same as 28) Find maximum difference between two elements in an array
+n 66. (Kadane) Find subarray with largest sum in a given array
+n 68. Generate all permutations of a distinct integer array
+n 69. Find minimum subarray sum of specified size 
+n 70. (sorted?) Find smallest length subarray with sum >= specified value 
+n 71. Find largest number from a list of non-negative integers
+n 72. Find continuous subarray to sort for array to be sorted 
+73. Sort array where only two elements are out of place
+75. Calculate the largest gap between sorted elements in array
+76. Check if numbers in array can form a consecutive list (easier than 57)
+77. Check if array alternates between positive and negative
+78. Check if array is negative dominant (When an array has more "unique negative" values than unique positive values, it is negative dominant.)
+79. Find missing letter in a sequence of consecutive letters
